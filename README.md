@@ -9,5 +9,3 @@
 
 ## Daftar perintah GiT
 …
-(Lokal via Git)
-3. Buka git bash dan lakukan cloni
